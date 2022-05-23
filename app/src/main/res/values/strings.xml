@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alertas</string>
+    <string name="btn_0">Mostrar Alerta 0</string>
+    <string name="btn_I">Mostrar Alerta I</string>
+    <string name="btn_II">Mostrar Alerta II</string>
+    <string name="btn_III">Mostrar Alerta III</string>
+    <string name="btn_IV">Mostrar Alerta IV</string>
+    <string name="btn_V">Mostrar Alerta V</string>
+    <string name="btn_VI">Mostrar Alerta VI</string>
+    <string name="btn_VII">Mostrar Alerta VII</string>
+</resources>
